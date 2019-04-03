@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Shutdowns</string>
+    <string name="url_subdivision">http://localhost/CESC/Area_Sub_division.php</string>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical"
+    android:background="#9FA8DA"
+    tools:context="com.example.newu.shutdowns.SubDivisions"
+    >
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textSize="30dp"
+    android:text="Division 1"
+    android:textColor="#536DFE"
+    android:textAlignment="center"
+    android:background="#FFFFff"
+    android:id="@+id/divisionss"
+    android:padding="10dp"/>
+<ListView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/sub_division_list"
+    >
+    </ListView>
+
+
+</LinearLayout>
